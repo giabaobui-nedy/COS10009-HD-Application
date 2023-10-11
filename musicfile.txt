@@ -1,0 +1,112 @@
+10
+Hoang
+Hoang Thuy Linh
+images/Hoanghoangthuylinh.jpg
+9
+Khởi Đầu
+songfiles/khoidauhtl.mp3
+Để Mị Nói Cho Mà Nghe
+songfiles/dmncmnhtl.mp3
+Duyên Âm
+songfiles/duyenamhtl.mp3
+Em Đây Chẳng Phải Thuý Kiều
+songfiles/edcptkhtl.mp3
+Lắm Mối Tối Ngồi Không
+songfiles/lmtnkhtl.mp3
+Kẽo Cà Kẽo Kẹt
+songfiles/kckkhtl.mp3
+Tứ Phủ
+songfiles/tuphuhtl.mp3
+Kẻ Cắp Gặp Bà Già (feat.BINZ)
+songfiles/kcgbghtl.mp3
+Giải Kết
+songfiles/giaikethtl.mp3
+Portrait
+Uyên Linh
+images/Portraituyenlinh.jpg
+9
+Mơ Hoa Hồng
+songfiles/mhhuyenlinh.mp3
+Bài Hát Của Em
+songfiles/bhceuyenlinh.mp3
+Đại Lộ Tan Vỡ
+songfiles/dltvuyenlinh.mp3
+Xin Giữ Em Cho Hoàng Hôn
+songfiles/xgechhuyenlinh.mp3
+Trái Tim Mông Lung
+songfiles/ttmluyenlinh.mp3
+Biết Đâu
+songfiles/bietdauuyenlinh.mp3
+Khoảng Trống
+songfiles/khoangtronguyenlinh.mp3
+Nhớ Anh
+songfiles/nhoanhuyenlinh.mp3
+Có Đôi Khi
+songfiles/cdkuyenlinh.mp3
+SOUR
+Olivia Rodrigo
+images/Olivia_Rodrigo_SOUR.png
+0
+Over The Moon
+Monstar
+images/overthemoon.jpeg
+0
+Folklore
+Taylor Swift
+images/Taylor_Swift_Folklore.png
+2
+Cardigan
+songfiles/cardigan_folklore_taylorswift.mp3
+Exile
+songfiles/exile_folklore_taylorswift.mp3
+H.E.R
+H.E.R
+images/heralbumcover.jpg
+0
+History
+Micheal Jackson
+images/MJ-HIStory.jpg
+0
+Moon Lovers OST
+Various artists
+images/moonloverostartwork.jpeg
+0
+Dreamee (Acoustic)
+AMEE
+images/dreameeacoustic.jpeg
+0
+My Everything
+Ariana Grande
+images/Ariana_Grande_My_Everything_2014_album_artwork.png
+15
+Intro
+songfiles/Intro_myeverything_arianagrande.mp3
+Bang Bang
+songfiles/BangBang_myeverything_arianagrande.mp3
+Be My Baby
+songfiles/BeMyBaby_myeverything_arianagrande.mp3
+Best Mistake
+songfiles/BestMistake_myeverything_arianagrande.mp3
+Break Free
+songfiles/BreakFree_myeverything_arianagrande.mp3
+Break Your Heart Right Back
+songfiles/BreakYourHeartRightBack_myeverything_arianagrande.mp3
+Hand Ons Me
+songfiles/handsonme_myeverything_arianagrande.mp3
+Just a little bit of your heart
+songfiles/justalittlebitofyourheart_myeverything_arianagrande.mp3
+Love me harder
+songfiles/lovemeharder_myeverything_arianagrande.mp3
+My Everything
+songfiles/MyEverything_myeverything_arianagrande.mp3
+One Last Time
+songfiles/OneLastTime_myeverything_arianagrande.mp3
+Only 1
+songfiles/Only1_myeverything_arianagrande.mp3
+Problem
+songfiles/Problem_myeverything_arianagrande.mp3
+Why Try
+songfiles/WhyTry_myeverything_arianagrande.mp3
+You Don't Know Me
+songfiles/youdontknowme_myeverything_arianagrande.mp3
+
